@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- ⚡ I'm Jia Jun Lee.
+- 🌱 My favorite technology stacks are NextJS-React, TypeScript, Python, and Snowflake/MSSQL.
+- 📫 Take a look on my portfolio in [https://react-next-app-template.vercel.app/portfolio](https://react-next-app-template.vercel.app/portfolio).
+
 <!--
 **jiajunlee19/jiajunlee19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
